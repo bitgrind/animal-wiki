@@ -1,0 +1,8 @@
+#animal-info > div {display: none;}
+#animal-info img {width:100%;}
+#animals {margin-top:30px;}
+#animals > div {text-align: center;height:300px;}
+#animals > div h1 {position: absolute;bottom:0;left:0;right:0;}
+#animals > div img {width:100%;position: absolute;bottom:50px;left:0;right:0;}
+
+footer{display:none;}
